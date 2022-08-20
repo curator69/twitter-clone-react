@@ -1,14 +1,6 @@
 ### Tweet-like app
 
-# How to run
 
-Do the following:
-
-```
-git clone
-npm install
-npm start
-```
 
 ## Store architecture
 
